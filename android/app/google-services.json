@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "457830231729",
+    "project_id": "flutter-appp-e12b0",
+    "storage_bucket": "flutter-appp-e12b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457830231729:android:b2d29f752f705ea047fc90",
+        "android_client_info": {
+          "package_name": "com.flutterflow.kaztravelappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457830231729-5v8lq6rpoicojq9tko82au84cqsjjtar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQgMg95_owUAgQldJg-Rbw9uu4MwS7dIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457830231729-5v8lq6rpoicojq9tko82au84cqsjjtar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457830231729-fj7ohj77iro7fn5p3ge65nqfl2ontmhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.kaztravelappp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
