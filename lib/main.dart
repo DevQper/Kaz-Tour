@@ -44,7 +44,7 @@ class _MyAppState extends State<MyApp> {
               ),
             ],
             child: MaterialApp(
-              title: 'KazTravelAppp',
+              title: 'KazTravelApp',
               debugShowCheckedModeBanner: false,
               theme: ThemeData(primarySwatch: Colors.blue),
               onGenerateRoute: CustomRouter.onGenerateRoute,
