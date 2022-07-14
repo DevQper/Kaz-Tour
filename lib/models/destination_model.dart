@@ -79,4 +79,11 @@ List<Destination> destinations = [
     description: 'Посмотреть достопримечательности западной столицы.',
     activities: activities,
   ),
+  Destination(
+    imageUrl: 'assets/images/taraz.jpg',
+    city: 'Тараз',
+    country: 'Жамбылская область',
+    description: 'Посмотреть достопримечательности западной столицы.',
+    activities: activities,
+  ),
 ];
